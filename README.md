@@ -1,6 +1,9 @@
 # Raytracer
 Ray tracer written in C for a computer graphics course at the university of Minnesota. Uses phong shading and has support for textures, reflection, and refraction.
 
+![ExampleImage](http://i.imgur.com/OVMOGxB.jpg?1 "Example image")
+
+
 Usage
 -----
 The raytracer can be compiled with the included makefile.
