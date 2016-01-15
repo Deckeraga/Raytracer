@@ -1,5 +1,5 @@
 # Raytracer
-Ray tracer written in C for a computer graphics course at the university of Minnesota
+Ray tracer written in C for a computer graphics course at the university of Minnesota. Uses phong shading and has support for textures, reflection, and refraction.
 
 Usage
 -----
