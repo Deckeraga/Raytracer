@@ -18,8 +18,8 @@ Note: an example imagefile can be found in the "test Files" folder
 - **eye**: Three floats to specify the location of the camera in space ex ```eye 0.0 0.0 0.0```
 - **updir**: Three floats to specify a vector in the upward direction of the camera
 - **viewdir**: Thee floats to specify a vector in the direction the camera is facing
-- **fovh**: one float representig the horizontal field of view of the camera in degrees
-- **imsize**: two integers represenfing the height and width of the image in pixels
+- **fovh**: one float representing the horizontal field of view of the camera in degrees
+- **imsize**: two integers representing the height and width of the image in pixels
 - **bkgcolor**: three floats (between 0 and 1) specifying the r/g/b values of the background color
 
 # Optional Parameters
